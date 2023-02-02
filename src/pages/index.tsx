@@ -36,7 +36,6 @@ const Home: NextPage = () => {
   return (
     <HomePage>
       <CardImage src="/images/card.svg" onClick={popEmoji} />
-      <input />
     </HomePage>
   );
 };
